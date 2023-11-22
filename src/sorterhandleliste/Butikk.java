@@ -9,26 +9,6 @@ public class Butikk {
 		
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		public Butikk(HashMap<Avdeling, Integer> layout){
 		this.layout=layout;
 	
