@@ -8,7 +8,6 @@ public class Butikk {
 		
 		public Butikk(HashMap<Avdeling, Integer> layout){
 		this.layout=layout;
-	
 		}
 
 		public HashMap<Avdeling, Integer> getlayout() {
