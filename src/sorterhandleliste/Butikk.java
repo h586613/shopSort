@@ -5,7 +5,6 @@ import java.util.HashMap;
 public class Butikk {
 	
 		HashMap<Avdeling, Integer> layout;
-
 		
 		public Butikk(HashMap<Avdeling, Integer> layout){
 		this.layout=layout;
